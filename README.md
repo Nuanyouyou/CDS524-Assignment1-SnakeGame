@@ -23,7 +23,7 @@ How to Run
 
 2. Run the game:
    ```
-   python asg1.py
+   python Q-Learning Snake.py
    ```
 
 3. Controls:
